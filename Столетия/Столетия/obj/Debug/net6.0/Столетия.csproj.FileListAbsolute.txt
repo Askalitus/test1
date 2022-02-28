@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\momo\Столетия\Столетия\bin\Debug\net6.0\Столетия.exe
+C:\Users\User\Desktop\momo\Столетия\Столетия\bin\Debug\net6.0\Столетия.deps.json
+C:\Users\User\Desktop\momo\Столетия\Столетия\bin\Debug\net6.0\Столетия.runtimeconfig.json
+C:\Users\User\Desktop\momo\Столетия\Столетия\bin\Debug\net6.0\Столетия.dll
+C:\Users\User\Desktop\momo\Столетия\Столетия\bin\Debug\net6.0\ref\Столетия.dll
+C:\Users\User\Desktop\momo\Столетия\Столетия\bin\Debug\net6.0\Столетия.pdb
+C:\Users\User\Desktop\momo\Столетия\Столетия\obj\Debug\net6.0\Столетия.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\momo\Столетия\Столетия\obj\Debug\net6.0\Столетия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\momo\Столетия\Столетия\obj\Debug\net6.0\Столетия.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\momo\Столетия\Столетия\obj\Debug\net6.0\Столетия.AssemblyInfo.cs
+C:\Users\User\Desktop\momo\Столетия\Столетия\obj\Debug\net6.0\Столетия.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\momo\Столетия\Столетия\obj\Debug\net6.0\Столетия.dll
+C:\Users\User\Desktop\momo\Столетия\Столетия\obj\Debug\net6.0\ref\Столетия.dll
+C:\Users\User\Desktop\momo\Столетия\Столетия\obj\Debug\net6.0\Столетия.pdb
+C:\Users\User\Desktop\momo\Столетия\Столетия\obj\Debug\net6.0\Столетия.genruntimeconfig.cache
