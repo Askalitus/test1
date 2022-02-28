@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\momo\Практич упр 1 задание 2\Практич упр 1 задание 2\bin\Debug\net6.0\Практич упр 1 задание 2.exe
+C:\Users\User\Desktop\momo\Практич упр 1 задание 2\Практич упр 1 задание 2\bin\Debug\net6.0\Практич упр 1 задание 2.deps.json
+C:\Users\User\Desktop\momo\Практич упр 1 задание 2\Практич упр 1 задание 2\bin\Debug\net6.0\Практич упр 1 задание 2.runtimeconfig.json
+C:\Users\User\Desktop\momo\Практич упр 1 задание 2\Практич упр 1 задание 2\bin\Debug\net6.0\Практич упр 1 задание 2.dll
+C:\Users\User\Desktop\momo\Практич упр 1 задание 2\Практич упр 1 задание 2\bin\Debug\net6.0\ref\Практич упр 1 задание 2.dll
+C:\Users\User\Desktop\momo\Практич упр 1 задание 2\Практич упр 1 задание 2\bin\Debug\net6.0\Практич упр 1 задание 2.pdb
+C:\Users\User\Desktop\momo\Практич упр 1 задание 2\Практич упр 1 задание 2\obj\Debug\net6.0\Практич упр 1 задание 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\momo\Практич упр 1 задание 2\Практич упр 1 задание 2\obj\Debug\net6.0\Практич упр 1 задание 2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\momo\Практич упр 1 задание 2\Практич упр 1 задание 2\obj\Debug\net6.0\Практич упр 1 задание 2.AssemblyInfo.cs
+C:\Users\User\Desktop\momo\Практич упр 1 задание 2\Практич упр 1 задание 2\obj\Debug\net6.0\Практич упр 1 задание 2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\momo\Практич упр 1 задание 2\Практич упр 1 задание 2\obj\Debug\net6.0\Практич упр 1 задание 2.dll
+C:\Users\User\Desktop\momo\Практич упр 1 задание 2\Практич упр 1 задание 2\obj\Debug\net6.0\ref\Практич упр 1 задание 2.dll
+C:\Users\User\Desktop\momo\Практич упр 1 задание 2\Практич упр 1 задание 2\obj\Debug\net6.0\Практич упр 1 задание 2.pdb
+C:\Users\User\Desktop\momo\Практич упр 1 задание 2\Практич упр 1 задание 2\obj\Debug\net6.0\Практич упр 1 задание 2.genruntimeconfig.cache
