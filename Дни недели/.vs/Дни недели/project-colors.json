@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c92c1a83-c28d-4473-a1af-9ecc27501ee6": {
+      "ProjectGuid": "c92c1a83-c28d-4473-a1af-9ecc27501ee6",
+      "DisplayName": "Дни недели",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

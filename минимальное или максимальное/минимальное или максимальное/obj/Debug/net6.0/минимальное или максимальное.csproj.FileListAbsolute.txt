@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\momo\минимальное или максимальное\минимальное или максимальное\bin\Debug\net6.0\минимальное или максимальное.exe
+C:\Users\User\Desktop\momo\минимальное или максимальное\минимальное или максимальное\bin\Debug\net6.0\минимальное или максимальное.deps.json
+C:\Users\User\Desktop\momo\минимальное или максимальное\минимальное или максимальное\bin\Debug\net6.0\минимальное или максимальное.runtimeconfig.json
+C:\Users\User\Desktop\momo\минимальное или максимальное\минимальное или максимальное\bin\Debug\net6.0\минимальное или максимальное.dll
+C:\Users\User\Desktop\momo\минимальное или максимальное\минимальное или максимальное\bin\Debug\net6.0\ref\минимальное или максимальное.dll
+C:\Users\User\Desktop\momo\минимальное или максимальное\минимальное или максимальное\bin\Debug\net6.0\минимальное или максимальное.pdb
+C:\Users\User\Desktop\momo\минимальное или максимальное\минимальное или максимальное\obj\Debug\net6.0\минимальное или максимальное.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\momo\минимальное или максимальное\минимальное или максимальное\obj\Debug\net6.0\минимальное или максимальное.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\momo\минимальное или максимальное\минимальное или максимальное\obj\Debug\net6.0\минимальное или максимальное.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\momo\минимальное или максимальное\минимальное или максимальное\obj\Debug\net6.0\минимальное или максимальное.AssemblyInfo.cs
+C:\Users\User\Desktop\momo\минимальное или максимальное\минимальное или максимальное\obj\Debug\net6.0\минимальное или максимальное.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\momo\минимальное или максимальное\минимальное или максимальное\obj\Debug\net6.0\минимальное или максимальное.dll
+C:\Users\User\Desktop\momo\минимальное или максимальное\минимальное или максимальное\obj\Debug\net6.0\ref\минимальное или максимальное.dll
+C:\Users\User\Desktop\momo\минимальное или максимальное\минимальное или максимальное\obj\Debug\net6.0\минимальное или максимальное.pdb
+C:\Users\User\Desktop\momo\минимальное или максимальное\минимальное или максимальное\obj\Debug\net6.0\минимальное или максимальное.genruntimeconfig.cache

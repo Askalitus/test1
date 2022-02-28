@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46b422f0-61e0-4404-9dd8-3aeb5a6b2720": {
+      "ProjectGuid": "46b422f0-61e0-4404-9dd8-3aeb5a6b2720",
+      "DisplayName": "минимальное или максимальное",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
