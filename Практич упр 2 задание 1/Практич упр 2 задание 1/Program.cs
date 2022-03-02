@@ -5,11 +5,13 @@ namespace lolita
     {
         static void Main()
         {
+            double y;
+
             Console.Write("n= ");
 
             int n = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("\nwhile: \t\t");
+            Console.Write("\nwhile: \t\t");
 
             int i = 1;
 
@@ -19,7 +21,7 @@ namespace lolita
                 i += 2;
             }
 
-            Console.WriteLine("\ndo while: \t");
+            Console.Write("\ndo while: \t");
 
             i = 1;
 
@@ -31,7 +33,30 @@ namespace lolita
             }
             while (i <= n);
 
+            Console.Write("\nFor: \t\t");
+            for (i = 1; i<=n; i+=2)
+            {
+                Console.Write(" " + i);
+            }
+            Console.WriteLine(" ");
 
+            Console.WriteLine("Введите границу х1");
+            double x1 = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Введите границу х2");
+            double x2 = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Значения функции");
+            double x = x1;
+
+            do
+            {
+                y = Math.Sin(x);
+                Console.WriteLine("x={0}  y={1}", x, y);
+                x = x + 0.01;
+            }
+            while (x <= x2);
+            return;
         }
     }
 }
