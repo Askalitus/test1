@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\momo\Практ. Задание 3 мишени\Практ. Задание 3 мишени\bin\Debug\net6.0\Практ. Задание 3 мишени.exe
+C:\Users\User\Desktop\momo\Практ. Задание 3 мишени\Практ. Задание 3 мишени\bin\Debug\net6.0\Практ. Задание 3 мишени.deps.json
+C:\Users\User\Desktop\momo\Практ. Задание 3 мишени\Практ. Задание 3 мишени\bin\Debug\net6.0\Практ. Задание 3 мишени.runtimeconfig.json
+C:\Users\User\Desktop\momo\Практ. Задание 3 мишени\Практ. Задание 3 мишени\bin\Debug\net6.0\Практ. Задание 3 мишени.dll
+C:\Users\User\Desktop\momo\Практ. Задание 3 мишени\Практ. Задание 3 мишени\bin\Debug\net6.0\ref\Практ. Задание 3 мишени.dll
+C:\Users\User\Desktop\momo\Практ. Задание 3 мишени\Практ. Задание 3 мишени\bin\Debug\net6.0\Практ. Задание 3 мишени.pdb
+C:\Users\User\Desktop\momo\Практ. Задание 3 мишени\Практ. Задание 3 мишени\obj\Debug\net6.0\Практ. Задание 3 мишени.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\momo\Практ. Задание 3 мишени\Практ. Задание 3 мишени\obj\Debug\net6.0\Практ. Задание 3 мишени.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\momo\Практ. Задание 3 мишени\Практ. Задание 3 мишени\obj\Debug\net6.0\Практ. Задание 3 мишени.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\momo\Практ. Задание 3 мишени\Практ. Задание 3 мишени\obj\Debug\net6.0\Практ. Задание 3 мишени.AssemblyInfo.cs
+C:\Users\User\Desktop\momo\Практ. Задание 3 мишени\Практ. Задание 3 мишени\obj\Debug\net6.0\Практ. Задание 3 мишени.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\momo\Практ. Задание 3 мишени\Практ. Задание 3 мишени\obj\Debug\net6.0\Практ. Задание 3 мишени.dll
+C:\Users\User\Desktop\momo\Практ. Задание 3 мишени\Практ. Задание 3 мишени\obj\Debug\net6.0\ref\Практ. Задание 3 мишени.dll
+C:\Users\User\Desktop\momo\Практ. Задание 3 мишени\Практ. Задание 3 мишени\obj\Debug\net6.0\Практ. Задание 3 мишени.pdb
+C:\Users\User\Desktop\momo\Практ. Задание 3 мишени\Практ. Задание 3 мишени\obj\Debug\net6.0\Практ. Задание 3 мишени.genruntimeconfig.cache
