@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\momo\Иерархия классов 1 упр\Иерархия классов 1 упр\bin\Debug\Иерархия классов 1 упр.exe.config
+C:\Users\User\Desktop\momo\Иерархия классов 1 упр\Иерархия классов 1 упр\bin\Debug\Иерархия классов 1 упр.exe
+C:\Users\User\Desktop\momo\Иерархия классов 1 упр\Иерархия классов 1 упр\bin\Debug\Иерархия классов 1 упр.pdb
+C:\Users\User\Desktop\momo\Иерархия классов 1 упр\Иерархия классов 1 упр\obj\Debug\Иерархия классов 1 упр.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\momo\Иерархия классов 1 упр\Иерархия классов 1 упр\obj\Debug\Иерархия классов 1 упр.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\momo\Иерархия классов 1 упр\Иерархия классов 1 упр\obj\Debug\Иерархия классов 1 упр.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\momo\Иерархия классов 1 упр\Иерархия классов 1 упр\obj\Debug\Иерархия классов 1 упр.exe
+C:\Users\User\Desktop\momo\Иерархия классов 1 упр\Иерархия классов 1 упр\obj\Debug\Иерархия классов 1 упр.pdb
