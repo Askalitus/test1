@@ -21,7 +21,7 @@ namespace Иерархия_классов_1_упр
 
         public void Sides()
         {
-            Console.WriteLine("\n 1 сторона: {0} \n 2 сторона {1} \n 3 сторона {2}", FirstSide, SecondSide, ThirdSide);
+            Console.WriteLine("\n 1 сторона: {0} \n 2 сторона: {1} \n 3 сторона: {2}", FirstSide, SecondSide, ThirdSide);
         }
 
         public void P()

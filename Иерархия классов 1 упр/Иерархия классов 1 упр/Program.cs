@@ -27,6 +27,23 @@ namespace Иерархия_классов_1_упр
             Book b3 = new Book("Лермонтов М.Ю.", "Мцыри");
 
             b3.Show();
+
+            Console.Write("Введите первую сторону треугольника: ");
+            int FirstSide = int.Parse(Console.ReadLine());
+            Console.Write("Введите вторую сторону треугольника: ");
+            int SecondSide = int.Parse(Console.ReadLine());
+            Console.Write("Введите третью сторону треугольника: ");
+            int ThirdSide = int.Parse(Console.ReadLine());
+            
+            Triangle t1 = new Triangle(FirstSide, SecondSide, ThirdSide);
+
+            t1.Sides();
+
+            t1.P();
+
+            t1.S();
+
+            t1.Proverka();
         }
     }
 }
