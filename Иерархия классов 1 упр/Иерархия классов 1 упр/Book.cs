@@ -30,9 +30,10 @@ namespace Иерархия_классов_1_упр
             Book.price = price;
         }
 
-        public void Show()
+        new public void Show()
         {
             Console.WriteLine("\nКнига:\n Автор: {0}\n Название: {1}\n Год издания: {2}\n {3} стр. \n Стоимость аренды: {4}", author, title, year, pages, Book.price);
+            base.Show();
         }
 
         public double PriceBook (int s)
@@ -66,5 +67,13 @@ namespace Иерархия_классов_1_упр
             this.title = title;
         }
 
+        public Book(String author, string title, string publisher, int pages, int year, long invNumber, bool taken) : base (invNumber, taken)
+        {
+            this.author = author;
+            this.title = title;
+            this.publisher = publisher;
+            this.pages = pages;
+            this.year = year;
+        }
     }
 }

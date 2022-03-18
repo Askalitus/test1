@@ -44,6 +44,9 @@ namespace Иерархия_классов_1_упр
             t1.S();
 
             t1.Proverka();
+
+            Item item1 = new Item();
+            item1.Show();
         }
     }
 }

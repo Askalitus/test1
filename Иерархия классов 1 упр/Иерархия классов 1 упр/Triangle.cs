@@ -31,7 +31,7 @@ namespace Иерархия_классов_1_упр
 
         public void S()
         {
-            Console.WriteLine("Площадь равна: {0}", FirstSide * SecondSide * ThirdSide);
+            Console.WriteLine("Площадь равна: {0}", Math.Sqrt(((FirstSide + SecondSide + ThirdSide) / 2) * (((FirstSide + SecondSide + ThirdSide) / 2) - FirstSide) * (((FirstSide + SecondSide + ThirdSide) / 2) - SecondSide) * (((FirstSide + SecondSide + ThirdSide) / 2) - ThirdSide)));
         }
 
         public void Proverka()
